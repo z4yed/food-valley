@@ -2,3 +2,55 @@ body {
     margin: 0;
     font-family: 'Rubik', sans-serif;
 }
+
+.flexible {
+    display: flex;
+}
+
+.orange-color {
+    color: orange
+}
+
+#top-section h1 {
+    font-size: 50px;
+    margin: 0;
+}
+
+#top-section p {
+    font-size: 1.25em;
+}
+
+.half-width {
+    padding: 100px;
+    width: 50%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 12px 15px;
+    font-weight: 700;
+    background: linear-gradient(to right, rgb(230, 78, 8), orange );
+    border-radius: 20px;
+    color: white;
+
+}
+
+#about-me-section {
+    background: url(images/7.png);
+    background-size: 100% 600px;
+    background-repeat: no-repeat;
+}
+
+#about-me-image {
+    height: 500px;
+    width: 100%;
+}
+
+#about-me-description {
+    font-size: 1.25em;
+    padding: 50px 0;
+}
