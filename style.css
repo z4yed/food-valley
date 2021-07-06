@@ -127,6 +127,7 @@ h1 {
 .supporters h1 {
     font-size: 2.55em;
     font-weight: 900;
+    margin-bottom: 0;
 }
 
 .supporters p {
